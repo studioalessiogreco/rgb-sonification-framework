@@ -1,0 +1,6914 @@
+[
+  {
+    "filename": "R_000.wav",
+    "channel": "R",
+    "rgb_value": 0,
+    "frequency_hz": 4000.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_001.wav",
+    "channel": "R",
+    "rgb_value": 1,
+    "frequency_hz": 4020.7873,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_002.wav",
+    "channel": "R",
+    "rgb_value": 2,
+    "frequency_hz": 4041.6825,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_003.wav",
+    "channel": "R",
+    "rgb_value": 3,
+    "frequency_hz": 4062.6864,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_004.wav",
+    "channel": "R",
+    "rgb_value": 4,
+    "frequency_hz": 4083.7994,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_005.wav",
+    "channel": "R",
+    "rgb_value": 5,
+    "frequency_hz": 4105.0222,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_006.wav",
+    "channel": "R",
+    "rgb_value": 6,
+    "frequency_hz": 4126.3552,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_007.wav",
+    "channel": "R",
+    "rgb_value": 7,
+    "frequency_hz": 4147.7991,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_008.wav",
+    "channel": "R",
+    "rgb_value": 8,
+    "frequency_hz": 4169.3544,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_009.wav",
+    "channel": "R",
+    "rgb_value": 9,
+    "frequency_hz": 4191.0218,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_010.wav",
+    "channel": "R",
+    "rgb_value": 10,
+    "frequency_hz": 4212.8017,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_011.wav",
+    "channel": "R",
+    "rgb_value": 11,
+    "frequency_hz": 4234.6949,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_012.wav",
+    "channel": "R",
+    "rgb_value": 12,
+    "frequency_hz": 4256.7018,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_013.wav",
+    "channel": "R",
+    "rgb_value": 13,
+    "frequency_hz": 4278.8231,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_014.wav",
+    "channel": "R",
+    "rgb_value": 14,
+    "frequency_hz": 4301.0593,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_015.wav",
+    "channel": "R",
+    "rgb_value": 15,
+    "frequency_hz": 4323.4111,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_016.wav",
+    "channel": "R",
+    "rgb_value": 16,
+    "frequency_hz": 4345.8791,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_017.wav",
+    "channel": "R",
+    "rgb_value": 17,
+    "frequency_hz": 4368.4638,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_018.wav",
+    "channel": "R",
+    "rgb_value": 18,
+    "frequency_hz": 4391.1659,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_019.wav",
+    "channel": "R",
+    "rgb_value": 19,
+    "frequency_hz": 4413.986,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_020.wav",
+    "channel": "R",
+    "rgb_value": 20,
+    "frequency_hz": 4436.9246,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_021.wav",
+    "channel": "R",
+    "rgb_value": 21,
+    "frequency_hz": 4459.9825,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_022.wav",
+    "channel": "R",
+    "rgb_value": 22,
+    "frequency_hz": 4483.1602,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_023.wav",
+    "channel": "R",
+    "rgb_value": 23,
+    "frequency_hz": 4506.4583,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_024.wav",
+    "channel": "R",
+    "rgb_value": 24,
+    "frequency_hz": 4529.8776,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_025.wav",
+    "channel": "R",
+    "rgb_value": 25,
+    "frequency_hz": 4553.4185,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_026.wav",
+    "channel": "R",
+    "rgb_value": 26,
+    "frequency_hz": 4577.0818,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_027.wav",
+    "channel": "R",
+    "rgb_value": 27,
+    "frequency_hz": 4600.868,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_028.wav",
+    "channel": "R",
+    "rgb_value": 28,
+    "frequency_hz": 4624.7778,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_029.wav",
+    "channel": "R",
+    "rgb_value": 29,
+    "frequency_hz": 4648.8119,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_030.wav",
+    "channel": "R",
+    "rgb_value": 30,
+    "frequency_hz": 4672.971,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_031.wav",
+    "channel": "R",
+    "rgb_value": 31,
+    "frequency_hz": 4697.2555,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_032.wav",
+    "channel": "R",
+    "rgb_value": 32,
+    "frequency_hz": 4721.6663,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_033.wav",
+    "channel": "R",
+    "rgb_value": 33,
+    "frequency_hz": 4746.2039,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_034.wav",
+    "channel": "R",
+    "rgb_value": 34,
+    "frequency_hz": 4770.869,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_035.wav",
+    "channel": "R",
+    "rgb_value": 35,
+    "frequency_hz": 4795.6623,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_036.wav",
+    "channel": "R",
+    "rgb_value": 36,
+    "frequency_hz": 4820.5845,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_037.wav",
+    "channel": "R",
+    "rgb_value": 37,
+    "frequency_hz": 4845.6362,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_038.wav",
+    "channel": "R",
+    "rgb_value": 38,
+    "frequency_hz": 4870.818,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_039.wav",
+    "channel": "R",
+    "rgb_value": 39,
+    "frequency_hz": 4896.1308,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_040.wav",
+    "channel": "R",
+    "rgb_value": 40,
+    "frequency_hz": 4921.575,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_041.wav",
+    "channel": "R",
+    "rgb_value": 41,
+    "frequency_hz": 4947.1516,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_042.wav",
+    "channel": "R",
+    "rgb_value": 42,
+    "frequency_hz": 4972.861,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_043.wav",
+    "channel": "R",
+    "rgb_value": 43,
+    "frequency_hz": 4998.704,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_044.wav",
+    "channel": "R",
+    "rgb_value": 44,
+    "frequency_hz": 5024.6813,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_045.wav",
+    "channel": "R",
+    "rgb_value": 45,
+    "frequency_hz": 5050.7937,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_046.wav",
+    "channel": "R",
+    "rgb_value": 46,
+    "frequency_hz": 5077.0417,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_047.wav",
+    "channel": "R",
+    "rgb_value": 47,
+    "frequency_hz": 5103.4261,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_048.wav",
+    "channel": "R",
+    "rgb_value": 48,
+    "frequency_hz": 5129.9477,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_049.wav",
+    "channel": "R",
+    "rgb_value": 49,
+    "frequency_hz": 5156.6071,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_050.wav",
+    "channel": "R",
+    "rgb_value": 50,
+    "frequency_hz": 5183.405,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_051.wav",
+    "channel": "R",
+    "rgb_value": 51,
+    "frequency_hz": 5210.3422,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_052.wav",
+    "channel": "R",
+    "rgb_value": 52,
+    "frequency_hz": 5237.4193,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_053.wav",
+    "channel": "R",
+    "rgb_value": 53,
+    "frequency_hz": 5264.6372,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_054.wav",
+    "channel": "R",
+    "rgb_value": 54,
+    "frequency_hz": 5291.9966,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_055.wav",
+    "channel": "R",
+    "rgb_value": 55,
+    "frequency_hz": 5319.4981,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_056.wav",
+    "channel": "R",
+    "rgb_value": 56,
+    "frequency_hz": 5347.1425,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_057.wav",
+    "channel": "R",
+    "rgb_value": 57,
+    "frequency_hz": 5374.9306,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_058.wav",
+    "channel": "R",
+    "rgb_value": 58,
+    "frequency_hz": 5402.8631,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_059.wav",
+    "channel": "R",
+    "rgb_value": 59,
+    "frequency_hz": 5430.9408,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_060.wav",
+    "channel": "R",
+    "rgb_value": 60,
+    "frequency_hz": 5459.1644,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_061.wav",
+    "channel": "R",
+    "rgb_value": 61,
+    "frequency_hz": 5487.5346,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_062.wav",
+    "channel": "R",
+    "rgb_value": 62,
+    "frequency_hz": 5516.0523,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_063.wav",
+    "channel": "R",
+    "rgb_value": 63,
+    "frequency_hz": 5544.7182,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_064.wav",
+    "channel": "R",
+    "rgb_value": 64,
+    "frequency_hz": 5573.5331,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_065.wav",
+    "channel": "R",
+    "rgb_value": 65,
+    "frequency_hz": 5602.4977,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_066.wav",
+    "channel": "R",
+    "rgb_value": 66,
+    "frequency_hz": 5631.6128,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_067.wav",
+    "channel": "R",
+    "rgb_value": 67,
+    "frequency_hz": 5660.8793,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_068.wav",
+    "channel": "R",
+    "rgb_value": 68,
+    "frequency_hz": 5690.2978,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_069.wav",
+    "channel": "R",
+    "rgb_value": 69,
+    "frequency_hz": 5719.8692,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_070.wav",
+    "channel": "R",
+    "rgb_value": 70,
+    "frequency_hz": 5749.5943,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_071.wav",
+    "channel": "R",
+    "rgb_value": 71,
+    "frequency_hz": 5779.4739,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_072.wav",
+    "channel": "R",
+    "rgb_value": 72,
+    "frequency_hz": 5809.5087,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_073.wav",
+    "channel": "R",
+    "rgb_value": 73,
+    "frequency_hz": 5839.6997,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_074.wav",
+    "channel": "R",
+    "rgb_value": 74,
+    "frequency_hz": 5870.0475,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_075.wav",
+    "channel": "R",
+    "rgb_value": 75,
+    "frequency_hz": 5900.553,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_076.wav",
+    "channel": "R",
+    "rgb_value": 76,
+    "frequency_hz": 5931.2171,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_077.wav",
+    "channel": "R",
+    "rgb_value": 77,
+    "frequency_hz": 5962.0405,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_078.wav",
+    "channel": "R",
+    "rgb_value": 78,
+    "frequency_hz": 5993.0241,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_079.wav",
+    "channel": "R",
+    "rgb_value": 79,
+    "frequency_hz": 6024.1688,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_080.wav",
+    "channel": "R",
+    "rgb_value": 80,
+    "frequency_hz": 6055.4752,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_081.wav",
+    "channel": "R",
+    "rgb_value": 81,
+    "frequency_hz": 6086.9444,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_082.wav",
+    "channel": "R",
+    "rgb_value": 82,
+    "frequency_hz": 6118.5771,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_083.wav",
+    "channel": "R",
+    "rgb_value": 83,
+    "frequency_hz": 6150.3742,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_084.wav",
+    "channel": "R",
+    "rgb_value": 84,
+    "frequency_hz": 6182.3366,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_085.wav",
+    "channel": "R",
+    "rgb_value": 85,
+    "frequency_hz": 6214.465,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_086.wav",
+    "channel": "R",
+    "rgb_value": 86,
+    "frequency_hz": 6246.7604,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_087.wav",
+    "channel": "R",
+    "rgb_value": 87,
+    "frequency_hz": 6279.2237,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_088.wav",
+    "channel": "R",
+    "rgb_value": 88,
+    "frequency_hz": 6311.8556,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_089.wav",
+    "channel": "R",
+    "rgb_value": 89,
+    "frequency_hz": 6344.6572,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_090.wav",
+    "channel": "R",
+    "rgb_value": 90,
+    "frequency_hz": 6377.6292,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_091.wav",
+    "channel": "R",
+    "rgb_value": 91,
+    "frequency_hz": 6410.7725,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_092.wav",
+    "channel": "R",
+    "rgb_value": 92,
+    "frequency_hz": 6444.0881,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_093.wav",
+    "channel": "R",
+    "rgb_value": 93,
+    "frequency_hz": 6477.5768,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_094.wav",
+    "channel": "R",
+    "rgb_value": 94,
+    "frequency_hz": 6511.2396,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_095.wav",
+    "channel": "R",
+    "rgb_value": 95,
+    "frequency_hz": 6545.0773,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_096.wav",
+    "channel": "R",
+    "rgb_value": 96,
+    "frequency_hz": 6579.0908,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_097.wav",
+    "channel": "R",
+    "rgb_value": 97,
+    "frequency_hz": 6613.2811,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_098.wav",
+    "channel": "R",
+    "rgb_value": 98,
+    "frequency_hz": 6647.6491,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_099.wav",
+    "channel": "R",
+    "rgb_value": 99,
+    "frequency_hz": 6682.1957,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_100.wav",
+    "channel": "R",
+    "rgb_value": 100,
+    "frequency_hz": 6716.9218,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_101.wav",
+    "channel": "R",
+    "rgb_value": 101,
+    "frequency_hz": 6751.8284,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_102.wav",
+    "channel": "R",
+    "rgb_value": 102,
+    "frequency_hz": 6786.9164,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_103.wav",
+    "channel": "R",
+    "rgb_value": 103,
+    "frequency_hz": 6822.1867,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_104.wav",
+    "channel": "R",
+    "rgb_value": 104,
+    "frequency_hz": 6857.6403,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_105.wav",
+    "channel": "R",
+    "rgb_value": 105,
+    "frequency_hz": 6893.2782,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_106.wav",
+    "channel": "R",
+    "rgb_value": 106,
+    "frequency_hz": 6929.1013,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_107.wav",
+    "channel": "R",
+    "rgb_value": 107,
+    "frequency_hz": 6965.1105,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_108.wav",
+    "channel": "R",
+    "rgb_value": 108,
+    "frequency_hz": 7001.3069,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_109.wav",
+    "channel": "R",
+    "rgb_value": 109,
+    "frequency_hz": 7037.6914,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_110.wav",
+    "channel": "R",
+    "rgb_value": 110,
+    "frequency_hz": 7074.265,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_111.wav",
+    "channel": "R",
+    "rgb_value": 111,
+    "frequency_hz": 7111.0286,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_112.wav",
+    "channel": "R",
+    "rgb_value": 112,
+    "frequency_hz": 7147.9833,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_113.wav",
+    "channel": "R",
+    "rgb_value": 113,
+    "frequency_hz": 7185.13,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_114.wav",
+    "channel": "R",
+    "rgb_value": 114,
+    "frequency_hz": 7222.4698,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_115.wav",
+    "channel": "R",
+    "rgb_value": 115,
+    "frequency_hz": 7260.0036,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_116.wav",
+    "channel": "R",
+    "rgb_value": 116,
+    "frequency_hz": 7297.7325,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_117.wav",
+    "channel": "R",
+    "rgb_value": 117,
+    "frequency_hz": 7335.6575,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_118.wav",
+    "channel": "R",
+    "rgb_value": 118,
+    "frequency_hz": 7373.7795,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_119.wav",
+    "channel": "R",
+    "rgb_value": 119,
+    "frequency_hz": 7412.0997,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_120.wav",
+    "channel": "R",
+    "rgb_value": 120,
+    "frequency_hz": 7450.6189,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_121.wav",
+    "channel": "R",
+    "rgb_value": 121,
+    "frequency_hz": 7489.3384,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_122.wav",
+    "channel": "R",
+    "rgb_value": 122,
+    "frequency_hz": 7528.2591,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_123.wav",
+    "channel": "R",
+    "rgb_value": 123,
+    "frequency_hz": 7567.3821,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_124.wav",
+    "channel": "R",
+    "rgb_value": 124,
+    "frequency_hz": 7606.7083,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_125.wav",
+    "channel": "R",
+    "rgb_value": 125,
+    "frequency_hz": 7646.239,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_126.wav",
+    "channel": "R",
+    "rgb_value": 126,
+    "frequency_hz": 7685.9751,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_127.wav",
+    "channel": "R",
+    "rgb_value": 127,
+    "frequency_hz": 7725.9176,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_128.wav",
+    "channel": "R",
+    "rgb_value": 128,
+    "frequency_hz": 7766.0678,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_129.wav",
+    "channel": "R",
+    "rgb_value": 129,
+    "frequency_hz": 7806.4266,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_130.wav",
+    "channel": "R",
+    "rgb_value": 130,
+    "frequency_hz": 7846.9951,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_131.wav",
+    "channel": "R",
+    "rgb_value": 131,
+    "frequency_hz": 7887.7745,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_132.wav",
+    "channel": "R",
+    "rgb_value": 132,
+    "frequency_hz": 7928.7658,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_133.wav",
+    "channel": "R",
+    "rgb_value": 133,
+    "frequency_hz": 7969.9701,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_134.wav",
+    "channel": "R",
+    "rgb_value": 134,
+    "frequency_hz": 8011.3885,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_135.wav",
+    "channel": "R",
+    "rgb_value": 135,
+    "frequency_hz": 8053.0222,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_136.wav",
+    "channel": "R",
+    "rgb_value": 136,
+    "frequency_hz": 8094.8723,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_137.wav",
+    "channel": "R",
+    "rgb_value": 137,
+    "frequency_hz": 8136.9398,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_138.wav",
+    "channel": "R",
+    "rgb_value": 138,
+    "frequency_hz": 8179.226,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_139.wav",
+    "channel": "R",
+    "rgb_value": 139,
+    "frequency_hz": 8221.7319,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_140.wav",
+    "channel": "R",
+    "rgb_value": 140,
+    "frequency_hz": 8264.4587,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_141.wav",
+    "channel": "R",
+    "rgb_value": 141,
+    "frequency_hz": 8307.4075,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_142.wav",
+    "channel": "R",
+    "rgb_value": 142,
+    "frequency_hz": 8350.5796,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_143.wav",
+    "channel": "R",
+    "rgb_value": 143,
+    "frequency_hz": 8393.976,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_144.wav",
+    "channel": "R",
+    "rgb_value": 144,
+    "frequency_hz": 8437.5979,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_145.wav",
+    "channel": "R",
+    "rgb_value": 145,
+    "frequency_hz": 8481.4465,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_146.wav",
+    "channel": "R",
+    "rgb_value": 146,
+    "frequency_hz": 8525.523,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_147.wav",
+    "channel": "R",
+    "rgb_value": 147,
+    "frequency_hz": 8569.8286,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_148.wav",
+    "channel": "R",
+    "rgb_value": 148,
+    "frequency_hz": 8614.3644,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_149.wav",
+    "channel": "R",
+    "rgb_value": 149,
+    "frequency_hz": 8659.1316,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_150.wav",
+    "channel": "R",
+    "rgb_value": 150,
+    "frequency_hz": 8704.1315,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_151.wav",
+    "channel": "R",
+    "rgb_value": 151,
+    "frequency_hz": 8749.3652,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_152.wav",
+    "channel": "R",
+    "rgb_value": 152,
+    "frequency_hz": 8794.834,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_153.wav",
+    "channel": "R",
+    "rgb_value": 153,
+    "frequency_hz": 8840.5392,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_154.wav",
+    "channel": "R",
+    "rgb_value": 154,
+    "frequency_hz": 8886.4818,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_155.wav",
+    "channel": "R",
+    "rgb_value": 155,
+    "frequency_hz": 8932.6632,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_156.wav",
+    "channel": "R",
+    "rgb_value": 156,
+    "frequency_hz": 8979.0845,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_157.wav",
+    "channel": "R",
+    "rgb_value": 157,
+    "frequency_hz": 9025.7472,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_158.wav",
+    "channel": "R",
+    "rgb_value": 158,
+    "frequency_hz": 9072.6523,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_159.wav",
+    "channel": "R",
+    "rgb_value": 159,
+    "frequency_hz": 9119.8012,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_160.wav",
+    "channel": "R",
+    "rgb_value": 160,
+    "frequency_hz": 9167.1951,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_161.wav",
+    "channel": "R",
+    "rgb_value": 161,
+    "frequency_hz": 9214.8353,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_162.wav",
+    "channel": "R",
+    "rgb_value": 162,
+    "frequency_hz": 9262.723,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_163.wav",
+    "channel": "R",
+    "rgb_value": 163,
+    "frequency_hz": 9310.8597,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_164.wav",
+    "channel": "R",
+    "rgb_value": 164,
+    "frequency_hz": 9359.2465,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_165.wav",
+    "channel": "R",
+    "rgb_value": 165,
+    "frequency_hz": 9407.8847,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_166.wav",
+    "channel": "R",
+    "rgb_value": 166,
+    "frequency_hz": 9456.7758,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_167.wav",
+    "channel": "R",
+    "rgb_value": 167,
+    "frequency_hz": 9505.9209,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_168.wav",
+    "channel": "R",
+    "rgb_value": 168,
+    "frequency_hz": 9555.3213,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_169.wav",
+    "channel": "R",
+    "rgb_value": 169,
+    "frequency_hz": 9604.9786,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_170.wav",
+    "channel": "R",
+    "rgb_value": 170,
+    "frequency_hz": 9654.8938,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_171.wav",
+    "channel": "R",
+    "rgb_value": 171,
+    "frequency_hz": 9705.0685,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_172.wav",
+    "channel": "R",
+    "rgb_value": 172,
+    "frequency_hz": 9755.504,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_173.wav",
+    "channel": "R",
+    "rgb_value": 173,
+    "frequency_hz": 9806.2015,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_174.wav",
+    "channel": "R",
+    "rgb_value": 174,
+    "frequency_hz": 9857.1625,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_175.wav",
+    "channel": "R",
+    "rgb_value": 175,
+    "frequency_hz": 9908.3883,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_176.wav",
+    "channel": "R",
+    "rgb_value": 176,
+    "frequency_hz": 9959.8804,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_177.wav",
+    "channel": "R",
+    "rgb_value": 177,
+    "frequency_hz": 10011.64,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_178.wav",
+    "channel": "R",
+    "rgb_value": 178,
+    "frequency_hz": 10063.6686,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_179.wav",
+    "channel": "R",
+    "rgb_value": 179,
+    "frequency_hz": 10115.9676,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_180.wav",
+    "channel": "R",
+    "rgb_value": 180,
+    "frequency_hz": 10168.5384,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_181.wav",
+    "channel": "R",
+    "rgb_value": 181,
+    "frequency_hz": 10221.3824,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_182.wav",
+    "channel": "R",
+    "rgb_value": 182,
+    "frequency_hz": 10274.501,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_183.wav",
+    "channel": "R",
+    "rgb_value": 183,
+    "frequency_hz": 10327.8957,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_184.wav",
+    "channel": "R",
+    "rgb_value": 184,
+    "frequency_hz": 10381.5678,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_185.wav",
+    "channel": "R",
+    "rgb_value": 185,
+    "frequency_hz": 10435.5189,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_186.wav",
+    "channel": "R",
+    "rgb_value": 186,
+    "frequency_hz": 10489.7503,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_187.wav",
+    "channel": "R",
+    "rgb_value": 187,
+    "frequency_hz": 10544.2636,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_188.wav",
+    "channel": "R",
+    "rgb_value": 188,
+    "frequency_hz": 10599.0602,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_189.wav",
+    "channel": "R",
+    "rgb_value": 189,
+    "frequency_hz": 10654.1415,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_190.wav",
+    "channel": "R",
+    "rgb_value": 190,
+    "frequency_hz": 10709.5091,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_191.wav",
+    "channel": "R",
+    "rgb_value": 191,
+    "frequency_hz": 10765.1644,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_192.wav",
+    "channel": "R",
+    "rgb_value": 192,
+    "frequency_hz": 10821.1089,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_193.wav",
+    "channel": "R",
+    "rgb_value": 193,
+    "frequency_hz": 10877.3442,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_194.wav",
+    "channel": "R",
+    "rgb_value": 194,
+    "frequency_hz": 10933.8717,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_195.wav",
+    "channel": "R",
+    "rgb_value": 195,
+    "frequency_hz": 10990.693,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_196.wav",
+    "channel": "R",
+    "rgb_value": 196,
+    "frequency_hz": 11047.8096,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_197.wav",
+    "channel": "R",
+    "rgb_value": 197,
+    "frequency_hz": 11105.223,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_198.wav",
+    "channel": "R",
+    "rgb_value": 198,
+    "frequency_hz": 11162.9348,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_199.wav",
+    "channel": "R",
+    "rgb_value": 199,
+    "frequency_hz": 11220.9465,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_200.wav",
+    "channel": "R",
+    "rgb_value": 200,
+    "frequency_hz": 11279.2596,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_201.wav",
+    "channel": "R",
+    "rgb_value": 201,
+    "frequency_hz": 11337.8758,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_202.wav",
+    "channel": "R",
+    "rgb_value": 202,
+    "frequency_hz": 11396.7967,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_203.wav",
+    "channel": "R",
+    "rgb_value": 203,
+    "frequency_hz": 11456.0237,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_204.wav",
+    "channel": "R",
+    "rgb_value": 204,
+    "frequency_hz": 11515.5585,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_205.wav",
+    "channel": "R",
+    "rgb_value": 205,
+    "frequency_hz": 11575.4027,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_206.wav",
+    "channel": "R",
+    "rgb_value": 206,
+    "frequency_hz": 11635.5579,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_207.wav",
+    "channel": "R",
+    "rgb_value": 207,
+    "frequency_hz": 11696.0257,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_208.wav",
+    "channel": "R",
+    "rgb_value": 208,
+    "frequency_hz": 11756.8078,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_209.wav",
+    "channel": "R",
+    "rgb_value": 209,
+    "frequency_hz": 11817.9057,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_210.wav",
+    "channel": "R",
+    "rgb_value": 210,
+    "frequency_hz": 11879.3212,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_211.wav",
+    "channel": "R",
+    "rgb_value": 211,
+    "frequency_hz": 11941.0558,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_212.wav",
+    "channel": "R",
+    "rgb_value": 212,
+    "frequency_hz": 12003.1112,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_213.wav",
+    "channel": "R",
+    "rgb_value": 213,
+    "frequency_hz": 12065.4891,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_214.wav",
+    "channel": "R",
+    "rgb_value": 214,
+    "frequency_hz": 12128.1912,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_215.wav",
+    "channel": "R",
+    "rgb_value": 215,
+    "frequency_hz": 12191.2192,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_216.wav",
+    "channel": "R",
+    "rgb_value": 216,
+    "frequency_hz": 12254.5746,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_217.wav",
+    "channel": "R",
+    "rgb_value": 217,
+    "frequency_hz": 12318.2594,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_218.wav",
+    "channel": "R",
+    "rgb_value": 218,
+    "frequency_hz": 12382.2751,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_219.wav",
+    "channel": "R",
+    "rgb_value": 219,
+    "frequency_hz": 12446.6234,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_220.wav",
+    "channel": "R",
+    "rgb_value": 220,
+    "frequency_hz": 12511.3062,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_221.wav",
+    "channel": "R",
+    "rgb_value": 221,
+    "frequency_hz": 12576.3251,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_222.wav",
+    "channel": "R",
+    "rgb_value": 222,
+    "frequency_hz": 12641.6819,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_223.wav",
+    "channel": "R",
+    "rgb_value": 223,
+    "frequency_hz": 12707.3784,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_224.wav",
+    "channel": "R",
+    "rgb_value": 224,
+    "frequency_hz": 12773.4163,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_225.wav",
+    "channel": "R",
+    "rgb_value": 225,
+    "frequency_hz": 12839.7973,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_226.wav",
+    "channel": "R",
+    "rgb_value": 226,
+    "frequency_hz": 12906.5234,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_227.wav",
+    "channel": "R",
+    "rgb_value": 227,
+    "frequency_hz": 12973.5961,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_228.wav",
+    "channel": "R",
+    "rgb_value": 228,
+    "frequency_hz": 13041.0175,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_229.wav",
+    "channel": "R",
+    "rgb_value": 229,
+    "frequency_hz": 13108.7892,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_230.wav",
+    "channel": "R",
+    "rgb_value": 230,
+    "frequency_hz": 13176.9132,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_231.wav",
+    "channel": "R",
+    "rgb_value": 231,
+    "frequency_hz": 13245.3911,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_232.wav",
+    "channel": "R",
+    "rgb_value": 232,
+    "frequency_hz": 13314.2249,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_233.wav",
+    "channel": "R",
+    "rgb_value": 233,
+    "frequency_hz": 13383.4165,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_234.wav",
+    "channel": "R",
+    "rgb_value": 234,
+    "frequency_hz": 13452.9676,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_235.wav",
+    "channel": "R",
+    "rgb_value": 235,
+    "frequency_hz": 13522.8801,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_236.wav",
+    "channel": "R",
+    "rgb_value": 236,
+    "frequency_hz": 13593.156,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_237.wav",
+    "channel": "R",
+    "rgb_value": 237,
+    "frequency_hz": 13663.7971,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_238.wav",
+    "channel": "R",
+    "rgb_value": 238,
+    "frequency_hz": 13734.8053,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_239.wav",
+    "channel": "R",
+    "rgb_value": 239,
+    "frequency_hz": 13806.1825,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_240.wav",
+    "channel": "R",
+    "rgb_value": 240,
+    "frequency_hz": 13877.9307,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_241.wav",
+    "channel": "R",
+    "rgb_value": 241,
+    "frequency_hz": 13950.0517,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_242.wav",
+    "channel": "R",
+    "rgb_value": 242,
+    "frequency_hz": 14022.5475,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_243.wav",
+    "channel": "R",
+    "rgb_value": 243,
+    "frequency_hz": 14095.4201,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_244.wav",
+    "channel": "R",
+    "rgb_value": 244,
+    "frequency_hz": 14168.6713,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_245.wav",
+    "channel": "R",
+    "rgb_value": 245,
+    "frequency_hz": 14242.3033,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_246.wav",
+    "channel": "R",
+    "rgb_value": 246,
+    "frequency_hz": 14316.3178,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_247.wav",
+    "channel": "R",
+    "rgb_value": 247,
+    "frequency_hz": 14390.7171,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_248.wav",
+    "channel": "R",
+    "rgb_value": 248,
+    "frequency_hz": 14465.5029,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_249.wav",
+    "channel": "R",
+    "rgb_value": 249,
+    "frequency_hz": 14540.6775,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_250.wav",
+    "channel": "R",
+    "rgb_value": 250,
+    "frequency_hz": 14616.2426,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_251.wav",
+    "channel": "R",
+    "rgb_value": 251,
+    "frequency_hz": 14692.2005,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_252.wav",
+    "channel": "R",
+    "rgb_value": 252,
+    "frequency_hz": 14768.5531,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_253.wav",
+    "channel": "R",
+    "rgb_value": 253,
+    "frequency_hz": 14845.3026,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_254.wav",
+    "channel": "R",
+    "rgb_value": 254,
+    "frequency_hz": 14922.4508,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "R_255.wav",
+    "channel": "R",
+    "rgb_value": 255,
+    "frequency_hz": 15000.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_000.wav",
+    "channel": "G",
+    "rgb_value": 0,
+    "frequency_hz": 250.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_001.wav",
+    "channel": "G",
+    "rgb_value": 1,
+    "frequency_hz": 252.7331,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_002.wav",
+    "channel": "G",
+    "rgb_value": 2,
+    "frequency_hz": 255.496,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_003.wav",
+    "channel": "G",
+    "rgb_value": 3,
+    "frequency_hz": 258.2891,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_004.wav",
+    "channel": "G",
+    "rgb_value": 4,
+    "frequency_hz": 261.1128,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_005.wav",
+    "channel": "G",
+    "rgb_value": 5,
+    "frequency_hz": 263.9673,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_006.wav",
+    "channel": "G",
+    "rgb_value": 6,
+    "frequency_hz": 266.8531,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_007.wav",
+    "channel": "G",
+    "rgb_value": 7,
+    "frequency_hz": 269.7704,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_008.wav",
+    "channel": "G",
+    "rgb_value": 8,
+    "frequency_hz": 272.7196,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_009.wav",
+    "channel": "G",
+    "rgb_value": 9,
+    "frequency_hz": 275.701,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_010.wav",
+    "channel": "G",
+    "rgb_value": 10,
+    "frequency_hz": 278.715,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_011.wav",
+    "channel": "G",
+    "rgb_value": 11,
+    "frequency_hz": 281.762,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_012.wav",
+    "channel": "G",
+    "rgb_value": 12,
+    "frequency_hz": 284.8423,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_013.wav",
+    "channel": "G",
+    "rgb_value": 13,
+    "frequency_hz": 287.9563,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_014.wav",
+    "channel": "G",
+    "rgb_value": 14,
+    "frequency_hz": 291.1043,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_015.wav",
+    "channel": "G",
+    "rgb_value": 15,
+    "frequency_hz": 294.2867,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_016.wav",
+    "channel": "G",
+    "rgb_value": 16,
+    "frequency_hz": 297.5039,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_017.wav",
+    "channel": "G",
+    "rgb_value": 17,
+    "frequency_hz": 300.7563,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_018.wav",
+    "channel": "G",
+    "rgb_value": 18,
+    "frequency_hz": 304.0442,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_019.wav",
+    "channel": "G",
+    "rgb_value": 19,
+    "frequency_hz": 307.3681,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_020.wav",
+    "channel": "G",
+    "rgb_value": 20,
+    "frequency_hz": 310.7283,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_021.wav",
+    "channel": "G",
+    "rgb_value": 21,
+    "frequency_hz": 314.1252,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_022.wav",
+    "channel": "G",
+    "rgb_value": 22,
+    "frequency_hz": 317.5593,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_023.wav",
+    "channel": "G",
+    "rgb_value": 23,
+    "frequency_hz": 321.031,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_024.wav",
+    "channel": "G",
+    "rgb_value": 24,
+    "frequency_hz": 324.5405,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_025.wav",
+    "channel": "G",
+    "rgb_value": 25,
+    "frequency_hz": 328.0885,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_026.wav",
+    "channel": "G",
+    "rgb_value": 26,
+    "frequency_hz": 331.6752,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_027.wav",
+    "channel": "G",
+    "rgb_value": 27,
+    "frequency_hz": 335.3012,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_028.wav",
+    "channel": "G",
+    "rgb_value": 28,
+    "frequency_hz": 338.9668,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_029.wav",
+    "channel": "G",
+    "rgb_value": 29,
+    "frequency_hz": 342.6724,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_030.wav",
+    "channel": "G",
+    "rgb_value": 30,
+    "frequency_hz": 346.4186,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_031.wav",
+    "channel": "G",
+    "rgb_value": 31,
+    "frequency_hz": 350.2057,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_032.wav",
+    "channel": "G",
+    "rgb_value": 32,
+    "frequency_hz": 354.0342,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_033.wav",
+    "channel": "G",
+    "rgb_value": 33,
+    "frequency_hz": 357.9046,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_034.wav",
+    "channel": "G",
+    "rgb_value": 34,
+    "frequency_hz": 361.8173,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_035.wav",
+    "channel": "G",
+    "rgb_value": 35,
+    "frequency_hz": 365.7728,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_036.wav",
+    "channel": "G",
+    "rgb_value": 36,
+    "frequency_hz": 369.7715,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_037.wav",
+    "channel": "G",
+    "rgb_value": 37,
+    "frequency_hz": 373.8139,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_038.wav",
+    "channel": "G",
+    "rgb_value": 38,
+    "frequency_hz": 377.9005,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_039.wav",
+    "channel": "G",
+    "rgb_value": 39,
+    "frequency_hz": 382.0318,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_040.wav",
+    "channel": "G",
+    "rgb_value": 40,
+    "frequency_hz": 386.2083,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_041.wav",
+    "channel": "G",
+    "rgb_value": 41,
+    "frequency_hz": 390.4304,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_042.wav",
+    "channel": "G",
+    "rgb_value": 42,
+    "frequency_hz": 394.6987,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_043.wav",
+    "channel": "G",
+    "rgb_value": 43,
+    "frequency_hz": 399.0136,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_044.wav",
+    "channel": "G",
+    "rgb_value": 44,
+    "frequency_hz": 403.3757,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_045.wav",
+    "channel": "G",
+    "rgb_value": 45,
+    "frequency_hz": 407.7855,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_046.wav",
+    "channel": "G",
+    "rgb_value": 46,
+    "frequency_hz": 412.2435,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_047.wav",
+    "channel": "G",
+    "rgb_value": 47,
+    "frequency_hz": 416.7502,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_048.wav",
+    "channel": "G",
+    "rgb_value": 48,
+    "frequency_hz": 421.3062,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_049.wav",
+    "channel": "G",
+    "rgb_value": 49,
+    "frequency_hz": 425.912,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_050.wav",
+    "channel": "G",
+    "rgb_value": 50,
+    "frequency_hz": 430.5682,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_051.wav",
+    "channel": "G",
+    "rgb_value": 51,
+    "frequency_hz": 435.2753,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_052.wav",
+    "channel": "G",
+    "rgb_value": 52,
+    "frequency_hz": 440.0338,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_053.wav",
+    "channel": "G",
+    "rgb_value": 53,
+    "frequency_hz": 444.8444,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_054.wav",
+    "channel": "G",
+    "rgb_value": 54,
+    "frequency_hz": 449.7075,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_055.wav",
+    "channel": "G",
+    "rgb_value": 55,
+    "frequency_hz": 454.6238,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_056.wav",
+    "channel": "G",
+    "rgb_value": 56,
+    "frequency_hz": 459.5938,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_057.wav",
+    "channel": "G",
+    "rgb_value": 57,
+    "frequency_hz": 464.6182,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_058.wav",
+    "channel": "G",
+    "rgb_value": 58,
+    "frequency_hz": 469.6975,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_059.wav",
+    "channel": "G",
+    "rgb_value": 59,
+    "frequency_hz": 474.8324,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_060.wav",
+    "channel": "G",
+    "rgb_value": 60,
+    "frequency_hz": 480.0233,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_061.wav",
+    "channel": "G",
+    "rgb_value": 61,
+    "frequency_hz": 485.2711,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_062.wav",
+    "channel": "G",
+    "rgb_value": 62,
+    "frequency_hz": 490.5762,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_063.wav",
+    "channel": "G",
+    "rgb_value": 63,
+    "frequency_hz": 495.9392,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_064.wav",
+    "channel": "G",
+    "rgb_value": 64,
+    "frequency_hz": 501.361,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_065.wav",
+    "channel": "G",
+    "rgb_value": 65,
+    "frequency_hz": 506.842,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_066.wav",
+    "channel": "G",
+    "rgb_value": 66,
+    "frequency_hz": 512.3829,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_067.wav",
+    "channel": "G",
+    "rgb_value": 67,
+    "frequency_hz": 517.9843,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_068.wav",
+    "channel": "G",
+    "rgb_value": 68,
+    "frequency_hz": 523.6471,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_069.wav",
+    "channel": "G",
+    "rgb_value": 69,
+    "frequency_hz": 529.3717,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_070.wav",
+    "channel": "G",
+    "rgb_value": 70,
+    "frequency_hz": 535.1589,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_071.wav",
+    "channel": "G",
+    "rgb_value": 71,
+    "frequency_hz": 541.0094,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_072.wav",
+    "channel": "G",
+    "rgb_value": 72,
+    "frequency_hz": 546.9238,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_073.wav",
+    "channel": "G",
+    "rgb_value": 73,
+    "frequency_hz": 552.9029,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_074.wav",
+    "channel": "G",
+    "rgb_value": 74,
+    "frequency_hz": 558.9474,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_075.wav",
+    "channel": "G",
+    "rgb_value": 75,
+    "frequency_hz": 565.0579,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_076.wav",
+    "channel": "G",
+    "rgb_value": 76,
+    "frequency_hz": 571.2352,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_077.wav",
+    "channel": "G",
+    "rgb_value": 77,
+    "frequency_hz": 577.4801,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_078.wav",
+    "channel": "G",
+    "rgb_value": 78,
+    "frequency_hz": 583.7932,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_079.wav",
+    "channel": "G",
+    "rgb_value": 79,
+    "frequency_hz": 590.1754,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_080.wav",
+    "channel": "G",
+    "rgb_value": 80,
+    "frequency_hz": 596.6273,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_081.wav",
+    "channel": "G",
+    "rgb_value": 81,
+    "frequency_hz": 603.1498,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_082.wav",
+    "channel": "G",
+    "rgb_value": 82,
+    "frequency_hz": 609.7436,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_083.wav",
+    "channel": "G",
+    "rgb_value": 83,
+    "frequency_hz": 616.4094,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_084.wav",
+    "channel": "G",
+    "rgb_value": 84,
+    "frequency_hz": 623.1481,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_085.wav",
+    "channel": "G",
+    "rgb_value": 85,
+    "frequency_hz": 629.9605,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_086.wav",
+    "channel": "G",
+    "rgb_value": 86,
+    "frequency_hz": 636.8474,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_087.wav",
+    "channel": "G",
+    "rgb_value": 87,
+    "frequency_hz": 643.8095,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_088.wav",
+    "channel": "G",
+    "rgb_value": 88,
+    "frequency_hz": 650.8478,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_089.wav",
+    "channel": "G",
+    "rgb_value": 89,
+    "frequency_hz": 657.963,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_090.wav",
+    "channel": "G",
+    "rgb_value": 90,
+    "frequency_hz": 665.156,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_091.wav",
+    "channel": "G",
+    "rgb_value": 91,
+    "frequency_hz": 672.4277,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_092.wav",
+    "channel": "G",
+    "rgb_value": 92,
+    "frequency_hz": 679.7788,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_093.wav",
+    "channel": "G",
+    "rgb_value": 93,
+    "frequency_hz": 687.2103,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_094.wav",
+    "channel": "G",
+    "rgb_value": 94,
+    "frequency_hz": 694.723,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_095.wav",
+    "channel": "G",
+    "rgb_value": 95,
+    "frequency_hz": 702.3179,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_096.wav",
+    "channel": "G",
+    "rgb_value": 96,
+    "frequency_hz": 709.9958,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_097.wav",
+    "channel": "G",
+    "rgb_value": 97,
+    "frequency_hz": 717.7576,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_098.wav",
+    "channel": "G",
+    "rgb_value": 98,
+    "frequency_hz": 725.6043,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_099.wav",
+    "channel": "G",
+    "rgb_value": 99,
+    "frequency_hz": 733.5368,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_100.wav",
+    "channel": "G",
+    "rgb_value": 100,
+    "frequency_hz": 741.5559,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_101.wav",
+    "channel": "G",
+    "rgb_value": 101,
+    "frequency_hz": 749.6628,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_102.wav",
+    "channel": "G",
+    "rgb_value": 102,
+    "frequency_hz": 757.8583,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_103.wav",
+    "channel": "G",
+    "rgb_value": 103,
+    "frequency_hz": 766.1434,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_104.wav",
+    "channel": "G",
+    "rgb_value": 104,
+    "frequency_hz": 774.519,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_105.wav",
+    "channel": "G",
+    "rgb_value": 105,
+    "frequency_hz": 782.9862,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_106.wav",
+    "channel": "G",
+    "rgb_value": 106,
+    "frequency_hz": 791.546,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_107.wav",
+    "channel": "G",
+    "rgb_value": 107,
+    "frequency_hz": 800.1994,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_108.wav",
+    "channel": "G",
+    "rgb_value": 108,
+    "frequency_hz": 808.9473,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_109.wav",
+    "channel": "G",
+    "rgb_value": 109,
+    "frequency_hz": 817.7909,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_110.wav",
+    "channel": "G",
+    "rgb_value": 110,
+    "frequency_hz": 826.7312,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_111.wav",
+    "channel": "G",
+    "rgb_value": 111,
+    "frequency_hz": 835.7692,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_112.wav",
+    "channel": "G",
+    "rgb_value": 112,
+    "frequency_hz": 844.906,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_113.wav",
+    "channel": "G",
+    "rgb_value": 113,
+    "frequency_hz": 854.1427,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_114.wav",
+    "channel": "G",
+    "rgb_value": 114,
+    "frequency_hz": 863.4804,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_115.wav",
+    "channel": "G",
+    "rgb_value": 115,
+    "frequency_hz": 872.9201,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_116.wav",
+    "channel": "G",
+    "rgb_value": 116,
+    "frequency_hz": 882.4631,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_117.wav",
+    "channel": "G",
+    "rgb_value": 117,
+    "frequency_hz": 892.1104,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_118.wav",
+    "channel": "G",
+    "rgb_value": 118,
+    "frequency_hz": 901.8631,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_119.wav",
+    "channel": "G",
+    "rgb_value": 119,
+    "frequency_hz": 911.7225,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_120.wav",
+    "channel": "G",
+    "rgb_value": 120,
+    "frequency_hz": 921.6896,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_121.wav",
+    "channel": "G",
+    "rgb_value": 121,
+    "frequency_hz": 931.7658,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_122.wav",
+    "channel": "G",
+    "rgb_value": 122,
+    "frequency_hz": 941.952,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_123.wav",
+    "channel": "G",
+    "rgb_value": 123,
+    "frequency_hz": 952.2497,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_124.wav",
+    "channel": "G",
+    "rgb_value": 124,
+    "frequency_hz": 962.6599,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_125.wav",
+    "channel": "G",
+    "rgb_value": 125,
+    "frequency_hz": 973.1839,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_126.wav",
+    "channel": "G",
+    "rgb_value": 126,
+    "frequency_hz": 983.8229,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_127.wav",
+    "channel": "G",
+    "rgb_value": 127,
+    "frequency_hz": 994.5783,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_128.wav",
+    "channel": "G",
+    "rgb_value": 128,
+    "frequency_hz": 1005.4513,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_129.wav",
+    "channel": "G",
+    "rgb_value": 129,
+    "frequency_hz": 1016.4431,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_130.wav",
+    "channel": "G",
+    "rgb_value": 130,
+    "frequency_hz": 1027.555,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_131.wav",
+    "channel": "G",
+    "rgb_value": 131,
+    "frequency_hz": 1038.7885,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_132.wav",
+    "channel": "G",
+    "rgb_value": 132,
+    "frequency_hz": 1050.1448,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_133.wav",
+    "channel": "G",
+    "rgb_value": 133,
+    "frequency_hz": 1061.6252,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_134.wav",
+    "channel": "G",
+    "rgb_value": 134,
+    "frequency_hz": 1073.2311,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_135.wav",
+    "channel": "G",
+    "rgb_value": 135,
+    "frequency_hz": 1084.9639,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_136.wav",
+    "channel": "G",
+    "rgb_value": 136,
+    "frequency_hz": 1096.825,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_137.wav",
+    "channel": "G",
+    "rgb_value": 137,
+    "frequency_hz": 1108.8157,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_138.wav",
+    "channel": "G",
+    "rgb_value": 138,
+    "frequency_hz": 1120.9375,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_139.wav",
+    "channel": "G",
+    "rgb_value": 139,
+    "frequency_hz": 1133.1919,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_140.wav",
+    "channel": "G",
+    "rgb_value": 140,
+    "frequency_hz": 1145.5802,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_141.wav",
+    "channel": "G",
+    "rgb_value": 141,
+    "frequency_hz": 1158.1039,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_142.wav",
+    "channel": "G",
+    "rgb_value": 142,
+    "frequency_hz": 1170.7646,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_143.wav",
+    "channel": "G",
+    "rgb_value": 143,
+    "frequency_hz": 1183.5636,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_144.wav",
+    "channel": "G",
+    "rgb_value": 144,
+    "frequency_hz": 1196.5026,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_145.wav",
+    "channel": "G",
+    "rgb_value": 145,
+    "frequency_hz": 1209.583,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_146.wav",
+    "channel": "G",
+    "rgb_value": 146,
+    "frequency_hz": 1222.8065,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_147.wav",
+    "channel": "G",
+    "rgb_value": 147,
+    "frequency_hz": 1236.1745,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_148.wav",
+    "channel": "G",
+    "rgb_value": 148,
+    "frequency_hz": 1249.6886,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_149.wav",
+    "channel": "G",
+    "rgb_value": 149,
+    "frequency_hz": 1263.3505,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_150.wav",
+    "channel": "G",
+    "rgb_value": 150,
+    "frequency_hz": 1277.1617,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_151.wav",
+    "channel": "G",
+    "rgb_value": 151,
+    "frequency_hz": 1291.1239,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_152.wav",
+    "channel": "G",
+    "rgb_value": 152,
+    "frequency_hz": 1305.2388,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_153.wav",
+    "channel": "G",
+    "rgb_value": 153,
+    "frequency_hz": 1319.5079,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_154.wav",
+    "channel": "G",
+    "rgb_value": 154,
+    "frequency_hz": 1333.9331,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_155.wav",
+    "channel": "G",
+    "rgb_value": 155,
+    "frequency_hz": 1348.5159,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_156.wav",
+    "channel": "G",
+    "rgb_value": 156,
+    "frequency_hz": 1363.2582,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_157.wav",
+    "channel": "G",
+    "rgb_value": 157,
+    "frequency_hz": 1378.1616,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_158.wav",
+    "channel": "G",
+    "rgb_value": 158,
+    "frequency_hz": 1393.228,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_159.wav",
+    "channel": "G",
+    "rgb_value": 159,
+    "frequency_hz": 1408.4591,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_160.wav",
+    "channel": "G",
+    "rgb_value": 160,
+    "frequency_hz": 1423.8567,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_161.wav",
+    "channel": "G",
+    "rgb_value": 161,
+    "frequency_hz": 1439.4226,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_162.wav",
+    "channel": "G",
+    "rgb_value": 162,
+    "frequency_hz": 1455.1587,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_163.wav",
+    "channel": "G",
+    "rgb_value": 163,
+    "frequency_hz": 1471.0668,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_164.wav",
+    "channel": "G",
+    "rgb_value": 164,
+    "frequency_hz": 1487.1488,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_165.wav",
+    "channel": "G",
+    "rgb_value": 165,
+    "frequency_hz": 1503.4067,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_166.wav",
+    "channel": "G",
+    "rgb_value": 166,
+    "frequency_hz": 1519.8422,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_167.wav",
+    "channel": "G",
+    "rgb_value": 167,
+    "frequency_hz": 1536.4575,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_168.wav",
+    "channel": "G",
+    "rgb_value": 168,
+    "frequency_hz": 1553.2544,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_169.wav",
+    "channel": "G",
+    "rgb_value": 169,
+    "frequency_hz": 1570.2349,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_170.wav",
+    "channel": "G",
+    "rgb_value": 170,
+    "frequency_hz": 1587.4011,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_171.wav",
+    "channel": "G",
+    "rgb_value": 171,
+    "frequency_hz": 1604.7549,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_172.wav",
+    "channel": "G",
+    "rgb_value": 172,
+    "frequency_hz": 1622.2984,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_173.wav",
+    "channel": "G",
+    "rgb_value": 173,
+    "frequency_hz": 1640.0337,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_174.wav",
+    "channel": "G",
+    "rgb_value": 174,
+    "frequency_hz": 1657.9629,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_175.wav",
+    "channel": "G",
+    "rgb_value": 175,
+    "frequency_hz": 1676.0882,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_176.wav",
+    "channel": "G",
+    "rgb_value": 176,
+    "frequency_hz": 1694.4115,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_177.wav",
+    "channel": "G",
+    "rgb_value": 177,
+    "frequency_hz": 1712.9352,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_178.wav",
+    "channel": "G",
+    "rgb_value": 178,
+    "frequency_hz": 1731.6614,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_179.wav",
+    "channel": "G",
+    "rgb_value": 179,
+    "frequency_hz": 1750.5923,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_180.wav",
+    "channel": "G",
+    "rgb_value": 180,
+    "frequency_hz": 1769.7302,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_181.wav",
+    "channel": "G",
+    "rgb_value": 181,
+    "frequency_hz": 1789.0773,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_182.wav",
+    "channel": "G",
+    "rgb_value": 182,
+    "frequency_hz": 1808.6358,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_183.wav",
+    "channel": "G",
+    "rgb_value": 183,
+    "frequency_hz": 1828.4083,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_184.wav",
+    "channel": "G",
+    "rgb_value": 184,
+    "frequency_hz": 1848.3968,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_185.wav",
+    "channel": "G",
+    "rgb_value": 185,
+    "frequency_hz": 1868.6039,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_186.wav",
+    "channel": "G",
+    "rgb_value": 186,
+    "frequency_hz": 1889.0319,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_187.wav",
+    "channel": "G",
+    "rgb_value": 187,
+    "frequency_hz": 1909.6832,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_188.wav",
+    "channel": "G",
+    "rgb_value": 188,
+    "frequency_hz": 1930.5603,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_189.wav",
+    "channel": "G",
+    "rgb_value": 189,
+    "frequency_hz": 1951.6656,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_190.wav",
+    "channel": "G",
+    "rgb_value": 190,
+    "frequency_hz": 1973.0016,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_191.wav",
+    "channel": "G",
+    "rgb_value": 191,
+    "frequency_hz": 1994.5709,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_192.wav",
+    "channel": "G",
+    "rgb_value": 192,
+    "frequency_hz": 2016.376,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_193.wav",
+    "channel": "G",
+    "rgb_value": 193,
+    "frequency_hz": 2038.4195,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_194.wav",
+    "channel": "G",
+    "rgb_value": 194,
+    "frequency_hz": 2060.7039,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_195.wav",
+    "channel": "G",
+    "rgb_value": 195,
+    "frequency_hz": 2083.232,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_196.wav",
+    "channel": "G",
+    "rgb_value": 196,
+    "frequency_hz": 2106.0064,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_197.wav",
+    "channel": "G",
+    "rgb_value": 197,
+    "frequency_hz": 2129.0297,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_198.wav",
+    "channel": "G",
+    "rgb_value": 198,
+    "frequency_hz": 2152.3047,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_199.wav",
+    "channel": "G",
+    "rgb_value": 199,
+    "frequency_hz": 2175.8342,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_200.wav",
+    "channel": "G",
+    "rgb_value": 200,
+    "frequency_hz": 2199.6209,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_201.wav",
+    "channel": "G",
+    "rgb_value": 201,
+    "frequency_hz": 2223.6676,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_202.wav",
+    "channel": "G",
+    "rgb_value": 202,
+    "frequency_hz": 2247.9773,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_203.wav",
+    "channel": "G",
+    "rgb_value": 203,
+    "frequency_hz": 2272.5527,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_204.wav",
+    "channel": "G",
+    "rgb_value": 204,
+    "frequency_hz": 2297.3967,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_205.wav",
+    "channel": "G",
+    "rgb_value": 205,
+    "frequency_hz": 2322.5124,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_206.wav",
+    "channel": "G",
+    "rgb_value": 206,
+    "frequency_hz": 2347.9026,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_207.wav",
+    "channel": "G",
+    "rgb_value": 207,
+    "frequency_hz": 2373.5704,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_208.wav",
+    "channel": "G",
+    "rgb_value": 208,
+    "frequency_hz": 2399.5188,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_209.wav",
+    "channel": "G",
+    "rgb_value": 209,
+    "frequency_hz": 2425.7508,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_210.wav",
+    "channel": "G",
+    "rgb_value": 210,
+    "frequency_hz": 2452.2697,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_211.wav",
+    "channel": "G",
+    "rgb_value": 211,
+    "frequency_hz": 2479.0784,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_212.wav",
+    "channel": "G",
+    "rgb_value": 212,
+    "frequency_hz": 2506.1803,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_213.wav",
+    "channel": "G",
+    "rgb_value": 213,
+    "frequency_hz": 2533.5784,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_214.wav",
+    "channel": "G",
+    "rgb_value": 214,
+    "frequency_hz": 2561.276,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_215.wav",
+    "channel": "G",
+    "rgb_value": 215,
+    "frequency_hz": 2589.2765,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_216.wav",
+    "channel": "G",
+    "rgb_value": 216,
+    "frequency_hz": 2617.583,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_217.wav",
+    "channel": "G",
+    "rgb_value": 217,
+    "frequency_hz": 2646.199,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_218.wav",
+    "channel": "G",
+    "rgb_value": 218,
+    "frequency_hz": 2675.1279,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_219.wav",
+    "channel": "G",
+    "rgb_value": 219,
+    "frequency_hz": 2704.3729,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_220.wav",
+    "channel": "G",
+    "rgb_value": 220,
+    "frequency_hz": 2733.9377,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_221.wav",
+    "channel": "G",
+    "rgb_value": 221,
+    "frequency_hz": 2763.8258,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_222.wav",
+    "channel": "G",
+    "rgb_value": 222,
+    "frequency_hz": 2794.0405,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_223.wav",
+    "channel": "G",
+    "rgb_value": 223,
+    "frequency_hz": 2824.5856,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_224.wav",
+    "channel": "G",
+    "rgb_value": 224,
+    "frequency_hz": 2855.4646,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_225.wav",
+    "channel": "G",
+    "rgb_value": 225,
+    "frequency_hz": 2886.6812,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_226.wav",
+    "channel": "G",
+    "rgb_value": 226,
+    "frequency_hz": 2918.239,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_227.wav",
+    "channel": "G",
+    "rgb_value": 227,
+    "frequency_hz": 2950.1418,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_228.wav",
+    "channel": "G",
+    "rgb_value": 228,
+    "frequency_hz": 2982.3934,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_229.wav",
+    "channel": "G",
+    "rgb_value": 229,
+    "frequency_hz": 3014.9976,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_230.wav",
+    "channel": "G",
+    "rgb_value": 230,
+    "frequency_hz": 3047.9582,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_231.wav",
+    "channel": "G",
+    "rgb_value": 231,
+    "frequency_hz": 3081.2792,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_232.wav",
+    "channel": "G",
+    "rgb_value": 232,
+    "frequency_hz": 3114.9644,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_233.wav",
+    "channel": "G",
+    "rgb_value": 233,
+    "frequency_hz": 3149.0179,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_234.wav",
+    "channel": "G",
+    "rgb_value": 234,
+    "frequency_hz": 3183.4437,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_235.wav",
+    "channel": "G",
+    "rgb_value": 235,
+    "frequency_hz": 3218.2458,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_236.wav",
+    "channel": "G",
+    "rgb_value": 236,
+    "frequency_hz": 3253.4284,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_237.wav",
+    "channel": "G",
+    "rgb_value": 237,
+    "frequency_hz": 3288.9956,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_238.wav",
+    "channel": "G",
+    "rgb_value": 238,
+    "frequency_hz": 3324.9516,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_239.wav",
+    "channel": "G",
+    "rgb_value": 239,
+    "frequency_hz": 3361.3007,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_240.wav",
+    "channel": "G",
+    "rgb_value": 240,
+    "frequency_hz": 3398.0472,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_241.wav",
+    "channel": "G",
+    "rgb_value": 241,
+    "frequency_hz": 3435.1954,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_242.wav",
+    "channel": "G",
+    "rgb_value": 242,
+    "frequency_hz": 3472.7497,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_243.wav",
+    "channel": "G",
+    "rgb_value": 243,
+    "frequency_hz": 3510.7146,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_244.wav",
+    "channel": "G",
+    "rgb_value": 244,
+    "frequency_hz": 3549.0945,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_245.wav",
+    "channel": "G",
+    "rgb_value": 245,
+    "frequency_hz": 3587.894,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_246.wav",
+    "channel": "G",
+    "rgb_value": 246,
+    "frequency_hz": 3627.1176,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_247.wav",
+    "channel": "G",
+    "rgb_value": 247,
+    "frequency_hz": 3666.7701,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_248.wav",
+    "channel": "G",
+    "rgb_value": 248,
+    "frequency_hz": 3706.856,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_249.wav",
+    "channel": "G",
+    "rgb_value": 249,
+    "frequency_hz": 3747.3802,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_250.wav",
+    "channel": "G",
+    "rgb_value": 250,
+    "frequency_hz": 3788.3474,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_251.wav",
+    "channel": "G",
+    "rgb_value": 251,
+    "frequency_hz": 3829.7624,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_252.wav",
+    "channel": "G",
+    "rgb_value": 252,
+    "frequency_hz": 3871.6302,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_253.wav",
+    "channel": "G",
+    "rgb_value": 253,
+    "frequency_hz": 3913.9558,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_254.wav",
+    "channel": "G",
+    "rgb_value": 254,
+    "frequency_hz": 3956.744,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "G_255.wav",
+    "channel": "G",
+    "rgb_value": 255,
+    "frequency_hz": 4000.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_000.wav",
+    "channel": "B",
+    "rgb_value": 0,
+    "frequency_hz": 20.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_001.wav",
+    "channel": "B",
+    "rgb_value": 1,
+    "frequency_hz": 20.1991,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_002.wav",
+    "channel": "B",
+    "rgb_value": 2,
+    "frequency_hz": 20.4001,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_003.wav",
+    "channel": "B",
+    "rgb_value": 3,
+    "frequency_hz": 20.6032,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_004.wav",
+    "channel": "B",
+    "rgb_value": 4,
+    "frequency_hz": 20.8083,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_005.wav",
+    "channel": "B",
+    "rgb_value": 5,
+    "frequency_hz": 21.0154,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_006.wav",
+    "channel": "B",
+    "rgb_value": 6,
+    "frequency_hz": 21.2246,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_007.wav",
+    "channel": "B",
+    "rgb_value": 7,
+    "frequency_hz": 21.4359,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_008.wav",
+    "channel": "B",
+    "rgb_value": 8,
+    "frequency_hz": 21.6493,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_009.wav",
+    "channel": "B",
+    "rgb_value": 9,
+    "frequency_hz": 21.8647,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_010.wav",
+    "channel": "B",
+    "rgb_value": 10,
+    "frequency_hz": 22.0824,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_011.wav",
+    "channel": "B",
+    "rgb_value": 11,
+    "frequency_hz": 22.3022,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_012.wav",
+    "channel": "B",
+    "rgb_value": 12,
+    "frequency_hz": 22.5242,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_013.wav",
+    "channel": "B",
+    "rgb_value": 13,
+    "frequency_hz": 22.7484,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_014.wav",
+    "channel": "B",
+    "rgb_value": 14,
+    "frequency_hz": 22.9748,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_015.wav",
+    "channel": "B",
+    "rgb_value": 15,
+    "frequency_hz": 23.2035,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_016.wav",
+    "channel": "B",
+    "rgb_value": 16,
+    "frequency_hz": 23.4345,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_017.wav",
+    "channel": "B",
+    "rgb_value": 17,
+    "frequency_hz": 23.6678,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_018.wav",
+    "channel": "B",
+    "rgb_value": 18,
+    "frequency_hz": 23.9034,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_019.wav",
+    "channel": "B",
+    "rgb_value": 19,
+    "frequency_hz": 24.1413,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_020.wav",
+    "channel": "B",
+    "rgb_value": 20,
+    "frequency_hz": 24.3816,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_021.wav",
+    "channel": "B",
+    "rgb_value": 21,
+    "frequency_hz": 24.6243,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_022.wav",
+    "channel": "B",
+    "rgb_value": 22,
+    "frequency_hz": 24.8694,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_023.wav",
+    "channel": "B",
+    "rgb_value": 23,
+    "frequency_hz": 25.117,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_024.wav",
+    "channel": "B",
+    "rgb_value": 24,
+    "frequency_hz": 25.367,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_025.wav",
+    "channel": "B",
+    "rgb_value": 25,
+    "frequency_hz": 25.6195,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_026.wav",
+    "channel": "B",
+    "rgb_value": 26,
+    "frequency_hz": 25.8745,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_027.wav",
+    "channel": "B",
+    "rgb_value": 27,
+    "frequency_hz": 26.132,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_028.wav",
+    "channel": "B",
+    "rgb_value": 28,
+    "frequency_hz": 26.3922,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_029.wav",
+    "channel": "B",
+    "rgb_value": 29,
+    "frequency_hz": 26.6549,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_030.wav",
+    "channel": "B",
+    "rgb_value": 30,
+    "frequency_hz": 26.9202,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_031.wav",
+    "channel": "B",
+    "rgb_value": 31,
+    "frequency_hz": 27.1882,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_032.wav",
+    "channel": "B",
+    "rgb_value": 32,
+    "frequency_hz": 27.4588,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_033.wav",
+    "channel": "B",
+    "rgb_value": 33,
+    "frequency_hz": 27.7321,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_034.wav",
+    "channel": "B",
+    "rgb_value": 34,
+    "frequency_hz": 28.0082,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_035.wav",
+    "channel": "B",
+    "rgb_value": 35,
+    "frequency_hz": 28.287,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_036.wav",
+    "channel": "B",
+    "rgb_value": 36,
+    "frequency_hz": 28.5685,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_037.wav",
+    "channel": "B",
+    "rgb_value": 37,
+    "frequency_hz": 28.8529,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_038.wav",
+    "channel": "B",
+    "rgb_value": 38,
+    "frequency_hz": 29.1401,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_039.wav",
+    "channel": "B",
+    "rgb_value": 39,
+    "frequency_hz": 29.4302,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_040.wav",
+    "channel": "B",
+    "rgb_value": 40,
+    "frequency_hz": 29.7231,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_041.wav",
+    "channel": "B",
+    "rgb_value": 41,
+    "frequency_hz": 30.019,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_042.wav",
+    "channel": "B",
+    "rgb_value": 42,
+    "frequency_hz": 30.3178,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_043.wav",
+    "channel": "B",
+    "rgb_value": 43,
+    "frequency_hz": 30.6196,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_044.wav",
+    "channel": "B",
+    "rgb_value": 44,
+    "frequency_hz": 30.9244,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_045.wav",
+    "channel": "B",
+    "rgb_value": 45,
+    "frequency_hz": 31.2322,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_046.wav",
+    "channel": "B",
+    "rgb_value": 46,
+    "frequency_hz": 31.5431,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_047.wav",
+    "channel": "B",
+    "rgb_value": 47,
+    "frequency_hz": 31.8571,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_048.wav",
+    "channel": "B",
+    "rgb_value": 48,
+    "frequency_hz": 32.1742,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_049.wav",
+    "channel": "B",
+    "rgb_value": 49,
+    "frequency_hz": 32.4944,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_050.wav",
+    "channel": "B",
+    "rgb_value": 50,
+    "frequency_hz": 32.8179,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_051.wav",
+    "channel": "B",
+    "rgb_value": 51,
+    "frequency_hz": 33.1445,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_052.wav",
+    "channel": "B",
+    "rgb_value": 52,
+    "frequency_hz": 33.4745,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_053.wav",
+    "channel": "B",
+    "rgb_value": 53,
+    "frequency_hz": 33.8077,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_054.wav",
+    "channel": "B",
+    "rgb_value": 54,
+    "frequency_hz": 34.1442,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_055.wav",
+    "channel": "B",
+    "rgb_value": 55,
+    "frequency_hz": 34.4841,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_056.wav",
+    "channel": "B",
+    "rgb_value": 56,
+    "frequency_hz": 34.8273,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_057.wav",
+    "channel": "B",
+    "rgb_value": 57,
+    "frequency_hz": 35.174,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_058.wav",
+    "channel": "B",
+    "rgb_value": 58,
+    "frequency_hz": 35.5241,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_059.wav",
+    "channel": "B",
+    "rgb_value": 59,
+    "frequency_hz": 35.8777,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_060.wav",
+    "channel": "B",
+    "rgb_value": 60,
+    "frequency_hz": 36.2349,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_061.wav",
+    "channel": "B",
+    "rgb_value": 61,
+    "frequency_hz": 36.5955,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_062.wav",
+    "channel": "B",
+    "rgb_value": 62,
+    "frequency_hz": 36.9598,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_063.wav",
+    "channel": "B",
+    "rgb_value": 63,
+    "frequency_hz": 37.3277,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_064.wav",
+    "channel": "B",
+    "rgb_value": 64,
+    "frequency_hz": 37.6993,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_065.wav",
+    "channel": "B",
+    "rgb_value": 65,
+    "frequency_hz": 38.0745,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_066.wav",
+    "channel": "B",
+    "rgb_value": 66,
+    "frequency_hz": 38.4535,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_067.wav",
+    "channel": "B",
+    "rgb_value": 67,
+    "frequency_hz": 38.8363,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_068.wav",
+    "channel": "B",
+    "rgb_value": 68,
+    "frequency_hz": 39.2229,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_069.wav",
+    "channel": "B",
+    "rgb_value": 69,
+    "frequency_hz": 39.6133,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_070.wav",
+    "channel": "B",
+    "rgb_value": 70,
+    "frequency_hz": 40.0076,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_071.wav",
+    "channel": "B",
+    "rgb_value": 71,
+    "frequency_hz": 40.4058,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_072.wav",
+    "channel": "B",
+    "rgb_value": 72,
+    "frequency_hz": 40.808,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_073.wav",
+    "channel": "B",
+    "rgb_value": 73,
+    "frequency_hz": 41.2142,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_074.wav",
+    "channel": "B",
+    "rgb_value": 74,
+    "frequency_hz": 41.6245,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_075.wav",
+    "channel": "B",
+    "rgb_value": 75,
+    "frequency_hz": 42.0388,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_076.wav",
+    "channel": "B",
+    "rgb_value": 76,
+    "frequency_hz": 42.4573,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_077.wav",
+    "channel": "B",
+    "rgb_value": 77,
+    "frequency_hz": 42.8799,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_078.wav",
+    "channel": "B",
+    "rgb_value": 78,
+    "frequency_hz": 43.3067,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_079.wav",
+    "channel": "B",
+    "rgb_value": 79,
+    "frequency_hz": 43.7378,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_080.wav",
+    "channel": "B",
+    "rgb_value": 80,
+    "frequency_hz": 44.1732,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_081.wav",
+    "channel": "B",
+    "rgb_value": 81,
+    "frequency_hz": 44.6129,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_082.wav",
+    "channel": "B",
+    "rgb_value": 82,
+    "frequency_hz": 45.057,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_083.wav",
+    "channel": "B",
+    "rgb_value": 83,
+    "frequency_hz": 45.5055,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_084.wav",
+    "channel": "B",
+    "rgb_value": 84,
+    "frequency_hz": 45.9584,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_085.wav",
+    "channel": "B",
+    "rgb_value": 85,
+    "frequency_hz": 46.4159,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_086.wav",
+    "channel": "B",
+    "rgb_value": 86,
+    "frequency_hz": 46.8779,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_087.wav",
+    "channel": "B",
+    "rgb_value": 87,
+    "frequency_hz": 47.3445,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_088.wav",
+    "channel": "B",
+    "rgb_value": 88,
+    "frequency_hz": 47.8158,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_089.wav",
+    "channel": "B",
+    "rgb_value": 89,
+    "frequency_hz": 48.2918,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_090.wav",
+    "channel": "B",
+    "rgb_value": 90,
+    "frequency_hz": 48.7725,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_091.wav",
+    "channel": "B",
+    "rgb_value": 91,
+    "frequency_hz": 49.2579,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_092.wav",
+    "channel": "B",
+    "rgb_value": 92,
+    "frequency_hz": 49.7483,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_093.wav",
+    "channel": "B",
+    "rgb_value": 93,
+    "frequency_hz": 50.2435,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_094.wav",
+    "channel": "B",
+    "rgb_value": 94,
+    "frequency_hz": 50.7436,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_095.wav",
+    "channel": "B",
+    "rgb_value": 95,
+    "frequency_hz": 51.2487,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_096.wav",
+    "channel": "B",
+    "rgb_value": 96,
+    "frequency_hz": 51.7588,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_097.wav",
+    "channel": "B",
+    "rgb_value": 97,
+    "frequency_hz": 52.274,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_098.wav",
+    "channel": "B",
+    "rgb_value": 98,
+    "frequency_hz": 52.7944,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_099.wav",
+    "channel": "B",
+    "rgb_value": 99,
+    "frequency_hz": 53.3199,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_100.wav",
+    "channel": "B",
+    "rgb_value": 100,
+    "frequency_hz": 53.8506,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_101.wav",
+    "channel": "B",
+    "rgb_value": 101,
+    "frequency_hz": 54.3867,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_102.wav",
+    "channel": "B",
+    "rgb_value": 102,
+    "frequency_hz": 54.928,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_103.wav",
+    "channel": "B",
+    "rgb_value": 103,
+    "frequency_hz": 55.4748,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_104.wav",
+    "channel": "B",
+    "rgb_value": 104,
+    "frequency_hz": 56.027,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_105.wav",
+    "channel": "B",
+    "rgb_value": 105,
+    "frequency_hz": 56.5847,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_106.wav",
+    "channel": "B",
+    "rgb_value": 106,
+    "frequency_hz": 57.1479,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_107.wav",
+    "channel": "B",
+    "rgb_value": 107,
+    "frequency_hz": 57.7168,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_108.wav",
+    "channel": "B",
+    "rgb_value": 108,
+    "frequency_hz": 58.2913,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_109.wav",
+    "channel": "B",
+    "rgb_value": 109,
+    "frequency_hz": 58.8715,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_110.wav",
+    "channel": "B",
+    "rgb_value": 110,
+    "frequency_hz": 59.4575,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_111.wav",
+    "channel": "B",
+    "rgb_value": 111,
+    "frequency_hz": 60.0494,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_112.wav",
+    "channel": "B",
+    "rgb_value": 112,
+    "frequency_hz": 60.6471,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_113.wav",
+    "channel": "B",
+    "rgb_value": 113,
+    "frequency_hz": 61.2508,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_114.wav",
+    "channel": "B",
+    "rgb_value": 114,
+    "frequency_hz": 61.8605,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_115.wav",
+    "channel": "B",
+    "rgb_value": 115,
+    "frequency_hz": 62.4762,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_116.wav",
+    "channel": "B",
+    "rgb_value": 116,
+    "frequency_hz": 63.0981,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_117.wav",
+    "channel": "B",
+    "rgb_value": 117,
+    "frequency_hz": 63.7262,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_118.wav",
+    "channel": "B",
+    "rgb_value": 118,
+    "frequency_hz": 64.3605,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_119.wav",
+    "channel": "B",
+    "rgb_value": 119,
+    "frequency_hz": 65.0012,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_120.wav",
+    "channel": "B",
+    "rgb_value": 120,
+    "frequency_hz": 65.6482,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_121.wav",
+    "channel": "B",
+    "rgb_value": 121,
+    "frequency_hz": 66.3017,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_122.wav",
+    "channel": "B",
+    "rgb_value": 122,
+    "frequency_hz": 66.9617,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_123.wav",
+    "channel": "B",
+    "rgb_value": 123,
+    "frequency_hz": 67.6282,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_124.wav",
+    "channel": "B",
+    "rgb_value": 124,
+    "frequency_hz": 68.3014,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_125.wav",
+    "channel": "B",
+    "rgb_value": 125,
+    "frequency_hz": 68.9812,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_126.wav",
+    "channel": "B",
+    "rgb_value": 126,
+    "frequency_hz": 69.6679,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_127.wav",
+    "channel": "B",
+    "rgb_value": 127,
+    "frequency_hz": 70.3614,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_128.wav",
+    "channel": "B",
+    "rgb_value": 128,
+    "frequency_hz": 71.0617,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_129.wav",
+    "channel": "B",
+    "rgb_value": 129,
+    "frequency_hz": 71.7691,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_130.wav",
+    "channel": "B",
+    "rgb_value": 130,
+    "frequency_hz": 72.4835,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_131.wav",
+    "channel": "B",
+    "rgb_value": 131,
+    "frequency_hz": 73.205,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_132.wav",
+    "channel": "B",
+    "rgb_value": 132,
+    "frequency_hz": 73.9337,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_133.wav",
+    "channel": "B",
+    "rgb_value": 133,
+    "frequency_hz": 74.6696,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_134.wav",
+    "channel": "B",
+    "rgb_value": 134,
+    "frequency_hz": 75.4129,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_135.wav",
+    "channel": "B",
+    "rgb_value": 135,
+    "frequency_hz": 76.1635,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_136.wav",
+    "channel": "B",
+    "rgb_value": 136,
+    "frequency_hz": 76.9217,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_137.wav",
+    "channel": "B",
+    "rgb_value": 137,
+    "frequency_hz": 77.6873,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_138.wav",
+    "channel": "B",
+    "rgb_value": 138,
+    "frequency_hz": 78.4606,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_139.wav",
+    "channel": "B",
+    "rgb_value": 139,
+    "frequency_hz": 79.2416,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_140.wav",
+    "channel": "B",
+    "rgb_value": 140,
+    "frequency_hz": 80.0304,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_141.wav",
+    "channel": "B",
+    "rgb_value": 141,
+    "frequency_hz": 80.827,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_142.wav",
+    "channel": "B",
+    "rgb_value": 142,
+    "frequency_hz": 81.6316,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_143.wav",
+    "channel": "B",
+    "rgb_value": 143,
+    "frequency_hz": 82.4442,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_144.wav",
+    "channel": "B",
+    "rgb_value": 144,
+    "frequency_hz": 83.2648,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_145.wav",
+    "channel": "B",
+    "rgb_value": 145,
+    "frequency_hz": 84.0936,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_146.wav",
+    "channel": "B",
+    "rgb_value": 146,
+    "frequency_hz": 84.9307,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_147.wav",
+    "channel": "B",
+    "rgb_value": 147,
+    "frequency_hz": 85.7761,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_148.wav",
+    "channel": "B",
+    "rgb_value": 148,
+    "frequency_hz": 86.6299,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_149.wav",
+    "channel": "B",
+    "rgb_value": 149,
+    "frequency_hz": 87.4922,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_150.wav",
+    "channel": "B",
+    "rgb_value": 150,
+    "frequency_hz": 88.3631,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_151.wav",
+    "channel": "B",
+    "rgb_value": 151,
+    "frequency_hz": 89.2427,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_152.wav",
+    "channel": "B",
+    "rgb_value": 152,
+    "frequency_hz": 90.131,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_153.wav",
+    "channel": "B",
+    "rgb_value": 153,
+    "frequency_hz": 91.0282,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_154.wav",
+    "channel": "B",
+    "rgb_value": 154,
+    "frequency_hz": 91.9343,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_155.wav",
+    "channel": "B",
+    "rgb_value": 155,
+    "frequency_hz": 92.8494,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_156.wav",
+    "channel": "B",
+    "rgb_value": 156,
+    "frequency_hz": 93.7737,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_157.wav",
+    "channel": "B",
+    "rgb_value": 157,
+    "frequency_hz": 94.7071,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_158.wav",
+    "channel": "B",
+    "rgb_value": 158,
+    "frequency_hz": 95.6498,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_159.wav",
+    "channel": "B",
+    "rgb_value": 159,
+    "frequency_hz": 96.6019,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_160.wav",
+    "channel": "B",
+    "rgb_value": 160,
+    "frequency_hz": 97.5635,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_161.wav",
+    "channel": "B",
+    "rgb_value": 161,
+    "frequency_hz": 98.5346,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_162.wav",
+    "channel": "B",
+    "rgb_value": 162,
+    "frequency_hz": 99.5154,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_163.wav",
+    "channel": "B",
+    "rgb_value": 163,
+    "frequency_hz": 100.506,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_164.wav",
+    "channel": "B",
+    "rgb_value": 164,
+    "frequency_hz": 101.5065,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_165.wav",
+    "channel": "B",
+    "rgb_value": 165,
+    "frequency_hz": 102.5169,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_166.wav",
+    "channel": "B",
+    "rgb_value": 166,
+    "frequency_hz": 103.5373,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_167.wav",
+    "channel": "B",
+    "rgb_value": 167,
+    "frequency_hz": 104.5679,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_168.wav",
+    "channel": "B",
+    "rgb_value": 168,
+    "frequency_hz": 105.6088,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_169.wav",
+    "channel": "B",
+    "rgb_value": 169,
+    "frequency_hz": 106.66,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_170.wav",
+    "channel": "B",
+    "rgb_value": 170,
+    "frequency_hz": 107.7217,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_171.wav",
+    "channel": "B",
+    "rgb_value": 171,
+    "frequency_hz": 108.794,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_172.wav",
+    "channel": "B",
+    "rgb_value": 172,
+    "frequency_hz": 109.8769,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_173.wav",
+    "channel": "B",
+    "rgb_value": 173,
+    "frequency_hz": 110.9707,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_174.wav",
+    "channel": "B",
+    "rgb_value": 174,
+    "frequency_hz": 112.0753,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_175.wav",
+    "channel": "B",
+    "rgb_value": 175,
+    "frequency_hz": 113.1909,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_176.wav",
+    "channel": "B",
+    "rgb_value": 176,
+    "frequency_hz": 114.3176,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_177.wav",
+    "channel": "B",
+    "rgb_value": 177,
+    "frequency_hz": 115.4555,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_178.wav",
+    "channel": "B",
+    "rgb_value": 178,
+    "frequency_hz": 116.6047,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_179.wav",
+    "channel": "B",
+    "rgb_value": 179,
+    "frequency_hz": 117.7654,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_180.wav",
+    "channel": "B",
+    "rgb_value": 180,
+    "frequency_hz": 118.9377,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_181.wav",
+    "channel": "B",
+    "rgb_value": 181,
+    "frequency_hz": 120.1216,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_182.wav",
+    "channel": "B",
+    "rgb_value": 182,
+    "frequency_hz": 121.3173,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_183.wav",
+    "channel": "B",
+    "rgb_value": 183,
+    "frequency_hz": 122.5249,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_184.wav",
+    "channel": "B",
+    "rgb_value": 184,
+    "frequency_hz": 123.7445,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_185.wav",
+    "channel": "B",
+    "rgb_value": 185,
+    "frequency_hz": 124.9762,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_186.wav",
+    "channel": "B",
+    "rgb_value": 186,
+    "frequency_hz": 126.2203,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_187.wav",
+    "channel": "B",
+    "rgb_value": 187,
+    "frequency_hz": 127.4767,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_188.wav",
+    "channel": "B",
+    "rgb_value": 188,
+    "frequency_hz": 128.7456,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_189.wav",
+    "channel": "B",
+    "rgb_value": 189,
+    "frequency_hz": 130.0271,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_190.wav",
+    "channel": "B",
+    "rgb_value": 190,
+    "frequency_hz": 131.3214,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_191.wav",
+    "channel": "B",
+    "rgb_value": 191,
+    "frequency_hz": 132.6286,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_192.wav",
+    "channel": "B",
+    "rgb_value": 192,
+    "frequency_hz": 133.9488,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_193.wav",
+    "channel": "B",
+    "rgb_value": 193,
+    "frequency_hz": 135.2821,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_194.wav",
+    "channel": "B",
+    "rgb_value": 194,
+    "frequency_hz": 136.6287,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_195.wav",
+    "channel": "B",
+    "rgb_value": 195,
+    "frequency_hz": 137.9887,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_196.wav",
+    "channel": "B",
+    "rgb_value": 196,
+    "frequency_hz": 139.3622,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_197.wav",
+    "channel": "B",
+    "rgb_value": 197,
+    "frequency_hz": 140.7495,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_198.wav",
+    "channel": "B",
+    "rgb_value": 198,
+    "frequency_hz": 142.1505,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_199.wav",
+    "channel": "B",
+    "rgb_value": 199,
+    "frequency_hz": 143.5655,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_200.wav",
+    "channel": "B",
+    "rgb_value": 200,
+    "frequency_hz": 144.9945,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_201.wav",
+    "channel": "B",
+    "rgb_value": 201,
+    "frequency_hz": 146.4378,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_202.wav",
+    "channel": "B",
+    "rgb_value": 202,
+    "frequency_hz": 147.8954,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_203.wav",
+    "channel": "B",
+    "rgb_value": 203,
+    "frequency_hz": 149.3676,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_204.wav",
+    "channel": "B",
+    "rgb_value": 204,
+    "frequency_hz": 150.8544,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_205.wav",
+    "channel": "B",
+    "rgb_value": 205,
+    "frequency_hz": 152.356,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_206.wav",
+    "channel": "B",
+    "rgb_value": 206,
+    "frequency_hz": 153.8726,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_207.wav",
+    "channel": "B",
+    "rgb_value": 207,
+    "frequency_hz": 155.4042,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_208.wav",
+    "channel": "B",
+    "rgb_value": 208,
+    "frequency_hz": 156.9511,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_209.wav",
+    "channel": "B",
+    "rgb_value": 209,
+    "frequency_hz": 158.5134,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_210.wav",
+    "channel": "B",
+    "rgb_value": 210,
+    "frequency_hz": 160.0913,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_211.wav",
+    "channel": "B",
+    "rgb_value": 211,
+    "frequency_hz": 161.6848,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_212.wav",
+    "channel": "B",
+    "rgb_value": 212,
+    "frequency_hz": 163.2942,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_213.wav",
+    "channel": "B",
+    "rgb_value": 213,
+    "frequency_hz": 164.9197,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_214.wav",
+    "channel": "B",
+    "rgb_value": 214,
+    "frequency_hz": 166.5613,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_215.wav",
+    "channel": "B",
+    "rgb_value": 215,
+    "frequency_hz": 168.2193,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_216.wav",
+    "channel": "B",
+    "rgb_value": 216,
+    "frequency_hz": 169.8937,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_217.wav",
+    "channel": "B",
+    "rgb_value": 217,
+    "frequency_hz": 171.5848,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_218.wav",
+    "channel": "B",
+    "rgb_value": 218,
+    "frequency_hz": 173.2928,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_219.wav",
+    "channel": "B",
+    "rgb_value": 219,
+    "frequency_hz": 175.0178,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_220.wav",
+    "channel": "B",
+    "rgb_value": 220,
+    "frequency_hz": 176.7599,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_221.wav",
+    "channel": "B",
+    "rgb_value": 221,
+    "frequency_hz": 178.5194,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_222.wav",
+    "channel": "B",
+    "rgb_value": 222,
+    "frequency_hz": 180.2964,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_223.wav",
+    "channel": "B",
+    "rgb_value": 223,
+    "frequency_hz": 182.091,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_224.wav",
+    "channel": "B",
+    "rgb_value": 224,
+    "frequency_hz": 183.9036,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_225.wav",
+    "channel": "B",
+    "rgb_value": 225,
+    "frequency_hz": 185.7342,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_226.wav",
+    "channel": "B",
+    "rgb_value": 226,
+    "frequency_hz": 187.583,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_227.wav",
+    "channel": "B",
+    "rgb_value": 227,
+    "frequency_hz": 189.4502,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_228.wav",
+    "channel": "B",
+    "rgb_value": 228,
+    "frequency_hz": 191.336,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_229.wav",
+    "channel": "B",
+    "rgb_value": 229,
+    "frequency_hz": 193.2405,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_230.wav",
+    "channel": "B",
+    "rgb_value": 230,
+    "frequency_hz": 195.164,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_231.wav",
+    "channel": "B",
+    "rgb_value": 231,
+    "frequency_hz": 197.1067,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_232.wav",
+    "channel": "B",
+    "rgb_value": 232,
+    "frequency_hz": 199.0687,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_233.wav",
+    "channel": "B",
+    "rgb_value": 233,
+    "frequency_hz": 201.0503,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_234.wav",
+    "channel": "B",
+    "rgb_value": 234,
+    "frequency_hz": 203.0515,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_235.wav",
+    "channel": "B",
+    "rgb_value": 235,
+    "frequency_hz": 205.0727,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_236.wav",
+    "channel": "B",
+    "rgb_value": 236,
+    "frequency_hz": 207.114,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_237.wav",
+    "channel": "B",
+    "rgb_value": 237,
+    "frequency_hz": 209.1756,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_238.wav",
+    "channel": "B",
+    "rgb_value": 238,
+    "frequency_hz": 211.2578,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_239.wav",
+    "channel": "B",
+    "rgb_value": 239,
+    "frequency_hz": 213.3606,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_240.wav",
+    "channel": "B",
+    "rgb_value": 240,
+    "frequency_hz": 215.4844,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_241.wav",
+    "channel": "B",
+    "rgb_value": 241,
+    "frequency_hz": 217.6294,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_242.wav",
+    "channel": "B",
+    "rgb_value": 242,
+    "frequency_hz": 219.7957,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_243.wav",
+    "channel": "B",
+    "rgb_value": 243,
+    "frequency_hz": 221.9835,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_244.wav",
+    "channel": "B",
+    "rgb_value": 244,
+    "frequency_hz": 224.1931,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_245.wav",
+    "channel": "B",
+    "rgb_value": 245,
+    "frequency_hz": 226.4248,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_246.wav",
+    "channel": "B",
+    "rgb_value": 246,
+    "frequency_hz": 228.6786,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_247.wav",
+    "channel": "B",
+    "rgb_value": 247,
+    "frequency_hz": 230.9549,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_248.wav",
+    "channel": "B",
+    "rgb_value": 248,
+    "frequency_hz": 233.2538,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_249.wav",
+    "channel": "B",
+    "rgb_value": 249,
+    "frequency_hz": 235.5756,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_250.wav",
+    "channel": "B",
+    "rgb_value": 250,
+    "frequency_hz": 237.9206,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_251.wav",
+    "channel": "B",
+    "rgb_value": 251,
+    "frequency_hz": 240.2888,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_252.wav",
+    "channel": "B",
+    "rgb_value": 252,
+    "frequency_hz": 242.6807,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_253.wav",
+    "channel": "B",
+    "rgb_value": 253,
+    "frequency_hz": 245.0963,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_254.wav",
+    "channel": "B",
+    "rgb_value": 254,
+    "frequency_hz": 247.536,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  },
+  {
+    "filename": "B_255.wav",
+    "channel": "B",
+    "rgb_value": 255,
+    "frequency_hz": 250.0,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "duration_s": 1.0
+  }
+]
