@@ -1,6 +1,6 @@
 # RGB Sonification Framework – Max/MSP Cross-Modal Prototype
 
-This project presents the functional software prototype developed in Max/MSP implementing the *RGB Sonification Framework for Accessible Visual Experience* (Zenodo, 2026)[cite: 1]. The system operates as a deterministic computational tool designed to map structural resonances between chromatic inputs and invariant acoustic outputs.
+This project presents the functional software prototype developed in Max/MSP implementing the *RGB Sonification Framework for Accessible Visual Experience* (Zenodo, 2026). The system operates as a deterministic computational tool designed to map structural resonances between chromatic inputs and invariant acoustic outputs.
 
 ## 1. Theoretical Framework & Artistic Paradigm
 
